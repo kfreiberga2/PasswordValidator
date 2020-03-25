@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8afadb77-c3ec-4eab-9d44-fbdcbbe79d1c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Calculator-1603" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Calculator/com/company/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Calculator/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalculatResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled104.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloMarch/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloMarch/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloMarch/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloMarch/HelloMarch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloMarch/out/production/HelloMarch/HomeUzd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloMarch/out/production/HelloMarch/com/example/helloworld/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloMarch/out/production/HelloMarch/com/example/helloworld/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloMarch/out/production/HelloMarch/com/example/helloworld/TwoSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloMarch/src/HomeUzd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloMarch/src/com/example/helloworld/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloMarch/src/com/example/helloworld/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloMarch/src/com/example/helloworld/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/src/com/example/helloworld/ArrayMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/src/com/example/helloworld/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorks/HomeWorks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorks/src/Trauki.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MarchTwenty/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MarchTwenty/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MarchTwenty/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MarchTwenty/MarchTwenty.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MarchTwenty/out/production/MarchTwenty/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MarchTwenty/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bootCamp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bootCamp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bootCamp/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bootCamp/bootCamp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bootCamp/src/Start.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ZV4Tygl5AceXFHiVPjPDn5qoSN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Calculator" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8afadb77-c3ec-4eab-9d44-fbdcbbe79d1c" name="Default Changelist" comment="" />
+      <created>1584910938474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584910938474</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="18" key="new project wizard" timestamp="1584912352099">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="418" y="18" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1584912352099" />
+  </component>
+</project>
